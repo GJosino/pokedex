@@ -1,0 +1,51 @@
+* {
+    margin:5px;
+    padding:5px;
+}
+
+#titulo {
+    text-align: center;
+    margin:5px;
+    padding:5px;
+}
+
+#botoes {
+    text-align: center;
+    margin:5px;
+    padding:5px;
+}
+
+body{
+    background-color:rebeccapurple;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+button {
+    background-color: grey;
+    border:1px solid white;
+    border-radius: 3px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    background-color: grey;
+    border-radius: 3px;
+    color: white;
+}
+
+#pokedexnome {
+    color:White;
+    border:1px solid red;
+    margin:0px;
+    padding:0px;
+}
+
+#pokedeximg {
+    color:White;
+    border:1px solid red;
+    margin:0px;
+    padding:0px;
+}
+
+
